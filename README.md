@@ -5,7 +5,7 @@
 - Implementing everything on our own.
 - The objective is to make a fps-puzzle game using only our game engine.
 ![alt text](https://github.com/Wdewaele/GameEngine/blob/master/Screenshot/Editor_default.PNG)
-- The project is composed by 3 three people :[Charly Jeaucq](https://github.com/CJeauc), [Saad Raouf](https://github.com/Synyproxy) &       myself. My main contributions, despite the helpful hand I gave to my partners, are creating the entire editor interface (and its           consequences) and implementing the debugging tools.
+- The project is composed by 3 three people :[Charly Jeauc](https://github.com/CJeauc), [Saad Raouf](https://github.com/Synyproxy) &       myself. My main contributions, despite the helpful hand I gave to my partners, are creating the entire editor interface (and its           consequences) and implementing the debugging tools.
 
  ## Libraries used
 - Bullet
