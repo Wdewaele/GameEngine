@@ -1,0 +1,119 @@
+
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 1
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 4
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 4
+::  ERROR_   :: Core::ComponentManager::GetComponentsOfEntity() in componentmanager.h(142)
+::  MESSAGE ::The entity requested doesn't exist : 4
+::  ERROR_   :: Core::ComponentManager::GetComponentsOfEntity() in componentmanager.h(142)
+::  MESSAGE ::The entity requested doesn't exist : 4
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 4
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 4
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 4
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 4
+::  ERROR_   :: Core::ComponentManager::GetComponentsOfEntity() in componentmanager.h(142)
+::  MESSAGE ::The entity requested doesn't exist : 4
+::  ERROR_   :: Core::ComponentManager::GetComponentsOfEntity() in componentmanager.h(142)
+::  MESSAGE ::The entity requested doesn't exist : 4
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 4
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 4
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 4 already have component of type class Core::Components::Transform
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 4 already have component of type class Core::Components::MeshRenderer
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 5
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 5
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 5 already have component of type class Core::Components::Transform
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 5 already have component of type class Core::Components::MeshRenderer
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 6
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 6
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 6 already have component of type class Core::Components::Transform
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 6 already have component of type class Core::Components::MeshRenderer
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 7
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 7
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 7
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 7
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 7 already have component of type class Core::Components::Transform
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 7 already have component of type class Core::Components::MeshRenderer
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 8
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 8
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 8 already have component of type class Core::Components::Transform
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 8 already have component of type class Core::Components::MeshRenderer
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 9
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 9
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 9 already have component of type class Core::Components::Transform
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 9 already have component of type class Core::Components::MeshRenderer
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 10
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 10
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 10 already have component of type class Core::Components::Transform
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 10 already have component of type class Core::Components::MeshRenderer
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 11
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 11
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 11 already have component of type class Core::Components::Transform
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 11 already have component of type class Core::Components::MeshRenderer
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 12
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 12
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 12 already have component of type class Core::Components::Transform
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 12 already have component of type class Core::Components::MeshRenderer
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 13
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 13
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 13 already have component of type class Core::Components::Transform
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 13 already have component of type class Core::Components::MeshRenderer
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 14
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 14
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 14
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 14
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 14 already have component of type class Core::Components::Transform
+::  WARNING   :: Core::ComponentManager::AddComponent() in componentmanager.h(67)
+::  MESSAGE ::The entity 14 already have component of type class Core::Components::MeshRenderer

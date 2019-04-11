@@ -1,0 +1,5 @@
+
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 1
+::  ERROR_   :: Core::ComponentManager::GetComponent() in componentmanager.h(122)
+::  MESSAGE ::The entity requested doesn't exist : 4
